@@ -36,3 +36,6 @@
 ##Machine Learning
 ##统计学习方法
 ##C++从入门到精通
+##Teach Yourself Java in 21 Days
+##Beginning Java 7 Jeff Frieson
+##Beginning JavaScript 5th Edtion
