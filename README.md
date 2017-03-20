@@ -39,3 +39,4 @@
 ##Teach Yourself Java in 21 Days
 ##Beginning Java 7 Jeff Frieson
 ##Beginning JavaScript 5th Edtion
+##Machine Learning in Action
