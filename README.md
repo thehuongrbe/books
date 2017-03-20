@@ -42,4 +42,4 @@
 ## Machine Learning in Action
 ## Programming Collective Intelligence
 ## Artificial Intelligence A Modern Approach
-## The Elements of Statistical Learning
+## The Elements of Statistical Learning Data Mining Inference and Prediction
