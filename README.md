@@ -40,3 +40,6 @@
 ## Beginning Java 7 Jeff Frieson
 ## Beginning JavaScript 5th Edtion
 ## Machine Learning in Action
+## Programming Collective Intelligence
+## Artificial Intelligence A Modern Approach
+## The Elements of Statistical Learning
