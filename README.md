@@ -44,3 +44,4 @@
 ## Artificial Intelligence A Modern Approach
 ## The Elements of Statistical Learning Data Mining Inference and Prediction
 ## Automate the boring stuff with python
+## 机器学习 周志华
