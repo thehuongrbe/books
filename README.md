@@ -47,3 +47,4 @@
 ## 机器学习 周志华
 ## cuda c programming guide
 ## CUDA by example: an introduction to general purpose gpu programming
+## Python for Data Analysis
