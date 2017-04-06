@@ -48,3 +48,5 @@
 ## cuda c programming guide
 ## CUDA by example: an introduction to general purpose gpu programming
 ## Python for Data Analysis
+## The Pragmatic Programmer: From Journeyman to Master
+## Code Complete
