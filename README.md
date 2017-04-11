@@ -50,3 +50,4 @@
 ## Python for Data Analysis
 ## The Pragmatic Programmer: From Journeyman to Master
 ## Code Complete
+## Introduction to Algorithms 3rd Edition
