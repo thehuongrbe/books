@@ -493,3 +493,56 @@ import pyautogui
 pyautogui.PAUSE = 1
 pyautogui.FAILSAFE = True
 
+#get screen size
+width, height = pyautogui.size()
+#moving the mouse
+#absolute position movement
+for i in range(10):
+      pyautogui.moveTo(100, 100, duration=0.25)
+      pyautogui.moveTo(200, 100, duration=0.25)
+      pyautogui.moveTo(200, 200, duration=0.25)
+      pyautogui.moveTo(100, 200, duration=0.25)
+
+#relative position movement
+for i in range(10):
+      pyautogui.moveRel(100, 0, duration=0.25)
+      pyautogui.moveRel(0, 100, duration=0.25)
+      pyautogui.moveRel(-100, 0, duration=0.25)
+      pyautogui.moveRel(0, -100, duration=0.25)
+      
+#get mouse position
+x,y  = pyautogui.position()
+
+
+#mouse control
+print"press CTRL-C to quit"
+try:
+    while True:
+    x,y = pyautogui.position()
+    positionStr = 'X: ' + str(x).rjust(4) + 'Y: ' + str(y).rjust(4)
+    print(positionStr, end = ' ')
+    print('\b' * len(positionStr), end = '',flush = True)
+except KeyBoardInterrput:
+    print"\nDone"
+    
+#Clicking the Mouse
+pyautogui.click(10,5) #defualt as left button
+pyautogui.click(100,150,button = 'left')
+pyautogui.click(200,250,button = 'right')
+
+pyautogui.mouseDown()
+pyautogui.mouseUp()
+pyautogui.doubleClick()
+pyautogui.rightClick()
+pyautogui.middleClick()
+
+pyautogui.dragTo() #dragging by absolute position
+pyautogui.dragRel()#dragging by relative position
+pyautogui.scroll()
+pyautogui.screenshot()
+pyautogui.pixelMatchesColor()
+
+#Control the keyboard
+pyautogui.typewrite()
+
+
