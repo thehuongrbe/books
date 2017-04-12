@@ -52,3 +52,6 @@
 ## Code Complete
 ## Introduction to Algorithms 3rd Edition
 ## Machine Learning: A Probabilistic Perspective
+## Python Network Programming
+## Python Cookbook
+## Core Python Programming
