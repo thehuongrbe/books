@@ -55,3 +55,4 @@
 ## Python Network Programming
 ## Python Cookbook
 ## Core Python Programming
+## C++ Cookbook
