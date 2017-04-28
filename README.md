@@ -60,3 +60,4 @@
 ## The Pragmatic Programmer
 ## The aosa book
 ## Python 学习手册(Learning Python)
+## Structure and Interpretation of Computer Programs
