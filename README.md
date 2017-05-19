@@ -62,3 +62,6 @@
 ## Python 学习手册(Learning Python)
 ## Structure and Interpretation of Computer Programs
 ## Core Python Application Programming
+## C++ 标准库
+## windows 核心编程
+## C++ concurrency in action
