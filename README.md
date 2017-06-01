@@ -65,3 +65,4 @@
 ## C++ 标准库
 ## windows 核心编程
 ## C++ concurrency in action
+## Deep Learning: Methods and Applications
