@@ -66,3 +66,6 @@
 ## windows 核心编程
 ## C++ concurrency in action
 ## Deep Learning: Methods and Applications
+## Machine Learning
+## Machine Learning An Algorithmic Perspective
+## Speech and Language Processing
