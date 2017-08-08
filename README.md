@@ -69,3 +69,5 @@
 ## Machine Learning
 ## Machine Learning An Algorithmic Perspective
 ## Speech and Language Processing
+## Illustrated C#
+## Beginning Microsoft C#
