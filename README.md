@@ -73,3 +73,7 @@
 ## Beginning Microsoft C#
 ## C# cookbook
 ## Database Principles Programming and Performance
+## Stanford cs231a, computer vision, from 3d reconstruction to recognition
+## Stanford cs231b, the cutting edge of computer vision
+## Stanford cs231n, convolutional neural networks for visual recognition
+## Stanford cs224, deep learning for natural language processing
