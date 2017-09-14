@@ -78,3 +78,7 @@
 ## Stanford cs231n, convolutional neural networks for visual recognition
 ## Stanford cs224, deep learning for natural language processing
 ## www.deeplearningbook.org, Goodfellow.
+## http://www.visionbib.com/bibliography/contents.html
+## Computer vision: models, learning and inference.
+## learning opencv.
+## learning CUDA.
