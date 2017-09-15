@@ -82,3 +82,6 @@
 ## Computer vision: models, learning and inference.
 ## learning opencv.
 ## learning CUDA.
+## introduction to programming using java
+## learning java
+## learning javascript
