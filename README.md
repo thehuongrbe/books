@@ -87,3 +87,4 @@
 ## learning javascript
 ## The Boost C++ Library.
 ## learning opencv 3 http://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf
+## Beginning C# 6 Programming with Visual Studio 2015, Professional C# 6 and .Net Core 1.0, Writing High-Performance .Net Code.
