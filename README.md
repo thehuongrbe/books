@@ -79,7 +79,7 @@
 ## Stanford cs224, deep learning for natural language processing
 ## www.deeplearningbook.org, Goodfellow.
 ## http://www.visionbib.com/bibliography/contents.html
-## Computer vision: models, learning and inference.
+## Computer vision: models, learning and inference:http://www.computervisionmodels.com/ 
 ## learning opencv.
 ## learning CUDA.
 ## introduction to programming using java
