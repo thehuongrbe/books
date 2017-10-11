@@ -93,3 +93,11 @@
 ## Deep Learning With Keras
 ## Natural Language Processing With Python.
 ## www.academia.edu 
+## Convex optimization
+## Introduction to operations research
+## Linear programming
+## Numerical optimization
+## Introduction to linear optimization
+## Optimization methods
+## Introduction to mathematical programming
+## Operations Research: An Introduciton
