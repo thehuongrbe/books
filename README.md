@@ -103,3 +103,6 @@
 ## Operations Research: An Introduciton
 ## Hands on machine learning with scikit-learn and tensorflow: concept, tools and techniquies to build intelligent systems.
 ## Deep learning with python, Francois Chollet
+## Deep Learning for Computer Vision
+## Deep Learning in Object Detection and Recognition
+## Domain Adaptation in Computer Vision Applications
