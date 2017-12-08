@@ -106,3 +106,6 @@
 ## Deep Learning for Computer Vision
 ## Deep Learning in Object Detection and Recognition
 ## Domain Adaptation in Computer Vision Applications
+## Computer Graphics Principles and Practices
+## Fundamentals of Computer Graphics
+## OpenGL, Coursera Computer Graphics
