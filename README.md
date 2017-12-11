@@ -109,3 +109,8 @@
 ## Computer Graphics Principles and Practices
 ## Fundamentals of Computer Graphics
 ## OpenGL, Coursera Computer Graphics
+## Clean Architecure, A Craftsman's Guide To Software Structure And Design
+## Design Data Insentive Applications
+## Stanford CS228, Probalistic Graphical Models:Principles and Techniques, CS229 Machine Learning, CS229T Statistical Learning Theory.
+## The Linux Command Line, The Linux Programming Interface
+## Fluent Python
