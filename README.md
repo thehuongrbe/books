@@ -114,3 +114,4 @@
 ## Stanford CS228, Probalistic Graphical Models:Principles and Techniques, CS229 Machine Learning, CS229T Statistical Learning Theory.
 ## The Linux Command Line, The Linux Programming Interface
 ## Fluent Python
+## Probabilistic Graph Models, Principles and Techniques, Coursera Specialization
