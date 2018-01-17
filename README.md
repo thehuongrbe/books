@@ -115,3 +115,4 @@
 ## The Linux Command Line, The Linux Programming Interface
 ## Fluent Python
 ## Probabilistic Graph Models, Principles and Techniques, Coursera Specialization
+## Cython A Guide for Programmers
